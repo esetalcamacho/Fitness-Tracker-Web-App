@@ -1,0 +1,24 @@
+# Virtual enviroment
+venv/
+
+# Enviroment variables
+.env
+
+# DB
+db.sqlite3
+
+# Complie files and cache
+__pycache__/
+*.pyc
+
+# Dependencies and logs
+*.log
+
+# Static files
+staticfiles/
+
+# Media
+media/
+
+# System files
+.DS_Store
